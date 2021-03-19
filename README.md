@@ -1,3 +1,9 @@
+THIS PROJECT CONTAINS FOLLOWING FEATURES:
+1)REACT JS FUNCTIONAL COMPONENTS
+2)REACT ROUTER AND REACT ROUTER DOM
+3)CUSTOMIZING STYLING
+4)CURD OPERATIONS
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
